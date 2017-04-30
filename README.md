@@ -1,5 +1,5 @@
-# yii2-lazy
-=============
+yii2-lazy
+=========
 implementation pattern design "lazy load" for components of yii2
 
 Installation
