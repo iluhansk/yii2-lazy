@@ -1,0 +1,21 @@
+{
+    "name": "iluhansk/yii2-lazy",
+    "description": "implementation pattern design 'lazy load' for components of yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","lazy","lazy load","lazyload","property", "properties", "lazy property", "lazy properties"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Ilya Perfilyev",
+            "email": "ilya_perfi@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "iluhansk\\lazy\\": ""
+        }
+    }
+}
